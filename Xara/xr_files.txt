@@ -1,0 +1,19 @@
+My website portfolio_htm_files
+My website portfolio.htm
+sitemap.xml
+robots.txt
+My website portfolio_htm_files/23.png
+My website portfolio_htm_files/3.png
+My website portfolio_htm_files/4.png
+My website portfolio_htm_files/25.png
+My website portfolio_htm_files/18.jpg
+My website portfolio_htm_files/15.jpg
+My website portfolio_htm_files/9.png
+My website portfolio_htm_files/xarawdgeneratedhtmlfont1.woff
+My website portfolio_htm_files/xarawdembeddedhtmlfont1.eot
+My website portfolio_htm_files/xarawdgeneratedhtmlfont2.woff
+My website portfolio_htm_files/xarawdembeddedhtmlfont2.eot
+My website portfolio_htm_files/xarawdgeneratedhtmlfont3.woff
+My website portfolio_htm_files/xarawdembeddedhtmlfont3.eot
+My website portfolio_htm_files/xarawdgeneratedhtmlfont4.woff
+My website portfolio_htm_files/xarawdembeddedhtmlfont4.eot
